@@ -1,10 +1,10 @@
 # EncryptedMessenger
 
-This is an encrypted messenger which works on python using - 
+This is an encrypted messenger which works on python using- 
 
-* Thingspeak api for sending and receiving messages through json files
-* Tkinter for the gui
-* Fernet for encryption and decruption
-* urlib/request to pull and push url
+1) Thingspeak api for sending and receiving messages through json files
+2) Tkinter for the gui
+3) Fernet for encryption and decryption
+4) urlib/request to pull and push url
 
-We use symettric encryption in this
+We have used symmetric encryption in this program.
