@@ -8,3 +8,7 @@ This is an encrypted messenger which works on python using-
 4) urlib/request to pull and push url
 
 We have used symmetric encryption in this program.
+
+
+youtube tutorial for the code - 
+https://www.youtube.com/watch?v=LyWQ9nrOz3Y
