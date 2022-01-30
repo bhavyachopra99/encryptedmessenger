@@ -1,2 +1,2 @@
 # encryptedmessenger
-this is an encrypted messenger which works on pythong using - 
+this is an encrypted messenger which works on python using - 
